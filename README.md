@@ -7,4 +7,4 @@ To get started, clone the repository, install the necessary dependencies, and ru
 
 For assistance, check the documentation provided in the repository. If you encounter issues or have questions, use the GitHub Issues tab to report them. We also welcome your contributions, feedback, and suggestions for improvements.
 
-This project is maintained by me with the help of a team at FemsTech Worldwide, including Mr. Alham O. Hotaki. Contributions are welcome, and you can contribute by submitting pull requests or participating in discussions through GitHub
+This project was created by me with the help of a team at FemsTech Worldwide, including Mr. Alham O. Hotaki. Contributions are welcome, and you can contribute by submitting pull requests or participating in discussions through GitHub
