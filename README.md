@@ -3,7 +3,8 @@ Data analytics is essential in today’s data-driven world, enabling the transfo
 
 The aim of this project is to showcase how EDA can transform raw data into meaningful stories by uncovering patterns, trends, and relationships that support informed decision-making. This project serves as a comprehensive guide to performing EDA with practical, real-world applications.
 
-The project includes various stages:
+The EDA includes various stages:
+
 Data Exploration: Developing a deep understanding of the dataset’s structure and attributes.
 
 Data Cleaning: Handling missing values, outliers, and inconsistencies to enhance data quality and reliability.
@@ -15,6 +16,6 @@ Feature Engineering: Creating additional variables to enrich the dataset and unc
 
 Bivariate and Multivariate Analysis: Analyzing relationships between variables to gain a more comprehensive understanding of the data.
 
-This project demonstrates how EDA, supported by statistical and visualization techniques, can reveal hidden trends and insights, ultimately driving better strategies and decision-making. Through careful exploration and presentation of data, this project highlights the value of clean, analyzed, and well-visualized information.
+This analysis showcases how EDA, supported by statistical and visualization techniques, can reveal hidden trends and insights, ultimately driving better strategies and decision-making. Through careful exploration and presentation of data, this project highlights the value of clean, analyzed, and well-visualized information.
 
 It was created by me with the help of Mr. Alham O. Hotaki at FemsTech Worldwide. 
